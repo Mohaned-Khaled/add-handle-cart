@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* // regular style toast */
+@import "ngx-toastr/toastr";
+
+.toast-container {
+  position: fixed !important;
+}

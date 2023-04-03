@@ -1,0 +1,13 @@
+.navbar-brand {
+  flex: 1;
+}
+
+.form-group {
+  margin-left: 20px;
+  flex: 1;
+}
+
+input {
+  max-width: 400px;
+  min-width: 150px;
+}

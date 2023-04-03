@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+
+h6 {
+  color: black;
+  transition-duration: 0.3s;
+}
+
+.link-container:hover h6 {
+  color: #0d6efd;
+}
+
+.type-image {
+  transition: 0.3s;
+  background-size: cover;
+}
+
+.type-image:hover {
+  transform: rotate(5deg) scale(1.2);
+}
+
+.product-img {
+  transition: all 0.3s ease-in-out;
+}
+
+.product-img:hover {
+  transform: scale(1.1);
+}
