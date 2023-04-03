@@ -1,6 +1,7 @@
 # AddToCartProject
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.2.\
+This is an Angular project that demonstrates how to add and handle a shopping cart using fake API data. The application allows users to browse through different categories of products, add items to their cart, remove items from their cart, and update the quantity of items in their cart. The project also uses 'localStorage' to persist cart items across sessions and 'ngx-toastr' to display notifications when items are added or removed from the cart.
 
 ## Development server
 
